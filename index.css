@@ -1,0 +1,13 @@
+.bodyHtml {
+    background-color: #1e1316;
+    color: white;
+}
+
+/* .row-detail {
+    background-color: #808080;
+} */
+
+.col {
+    border-style: solid;
+    border-width: 1px;
+}
